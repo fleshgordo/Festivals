@@ -1,4 +1,4 @@
-# Festivals in and around Switzerland and Europe and the rest of the planet.
+# Festivals in Switzerland, Europe and the rest of the planet 🎉
 
 This collection of festivals and events was started by Félicien Goguey, Laura Couto Rosado and Gordan Savičić for the Master Media Design course in Geneva. Please make a pull request if you want to update the list.  
 
