@@ -23,6 +23,7 @@ This collection of festivals and events was started by Félicien Goguey, Laura C
   - [Festival of algorithmic and mechanical movement](http://algomech.com/2016/)
   - [Gogbot Festival](http://2016.gogbot.nl/)
   - [KIKK Festival](http://www.kikk.be/2016/)
+  - [Mirage](http://www.miragefestival.com/)
   - [Resonate Belgrade](http://resonate.io)
   - [RIXC](http://rixc.org/en/festival/)
   - [Sensorium](http://sensorium.is/)
