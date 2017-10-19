@@ -8,6 +8,9 @@ This collection of festivals and events was started by Félicien Goguey, Laura C
   - [Gamez Festival](http://www.gamezfestival.ch/)
   - [Grafik](http://www.grafik-schweiz.ch/)
   - [Ludicious](http://www.ludicious.ch/)
+  - [Mapping](http://2017.mappingfestival.com/)
+  - [NIFFF](http://www.nifff.ch/site/fr/accueil)
+  - [Numerik Games](https://www.numerik-games.ch/)
 
 ## Europe
   - [AND Festival](http://www.andfestival.org.uk/)
