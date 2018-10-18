@@ -38,7 +38,7 @@ This collection of festivals, residence spaces and events was started by Félici
   - [Japan Media Arts festival](http://festival.j-mediaarts.jp/en/), Tokyo, JP
   - [Vector Festival](http://vectorfestival.org/), Toronto, CA 
 
-# Residencies
+# Residencies and fellowships
 
   - [Eyebeam](https://www.eyebeam.org/residency/), New York, US 
   - [CIID](http://ciid.dk/research/fellowships/), Copenhagen, DK
