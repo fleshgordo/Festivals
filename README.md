@@ -39,7 +39,7 @@ This collection of festivals, residence spaces and events was started by Félici
   - [Vector Festival](http://vectorfestival.org/), Toronto, CA 
 
 # Residencies and fellowships
-  - [BANFF](https://www.banffcentre.ca/programs/banff-artist-residence-fall-2018/20180917), BANFF, CA
+  - [BANFF](https://www.banffcentre.ca/programs/banff-artist-residence-fall-2018/20180917), Banff, CA
   - [CERN](https://arts.cern/programmes), Geneva, CH 
   - [CIID](http://ciid.dk/research/fellowships/), Copenhagen, DK
   - [Dart17](https://www.swissnexsanfrancisco.org/what-we-do/past-initiatives/dart17/), San Francisco, US
