@@ -3,7 +3,7 @@
 This collection of festivals and events was started by Félicien Goguey, Laura Couto Rosado and Gordan Savičić for the Master Media Design course in Geneva. Please make a pull request if you want to update the list.  
 
 ## Suisse
-  - [Belluard](http://belluard.ch/fr/call-appel/short/), Fribourg
+  - [Belluard](http://belluard.ch/), Fribourg
   - [HeK - net based](https://netbased.ch/), Basel
   - [Gamez Festival](http://www.gamezfestival.ch/), Zurich
   - [Grafik](http://www.grafik-schweiz.ch/), Zurich
