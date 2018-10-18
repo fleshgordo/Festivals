@@ -36,3 +36,19 @@ This collection of festivals and events was started by Félicien Goguey, Laura C
   - [Bian Montreal](http://bianmontreal.ca/), Montreal, CA
   - [Japan Media Arts festival](http://festival.j-mediaarts.jp/en/), Tokyo, JP
   - [Vector Festival](http://vectorfestival.org/), Toronto, CA 
+
+# Residencies
+
+  - [Eyebeam](https://www.eyebeam.org/residency/), New York, US 
+  - [CIID](http://ciid.dk/research/fellowships/), Copenhagen, DK
+  - [CERN](https://arts.cern/programmes), Geneva, CH 
+  - [Embassy of foreign artists](http://www.eofa.ch/), Geneva, CH 
+  - [Edith-Russ-Haus](http://www.edith-russ-haus.de/en/grants/grants/current.html), Oldenburg, DE  
+  - [Hangar](https://hangar.org/en/category/residents/convocatories-residents/), Barcelona, ES 
+  - [La Becque](http://labecque.ch/), La Tour-de-Peilz, CH
+  - [Pervasive Studio](https://www.watershed.co.uk/studio/), London, UK
+  - [Salzamt](http://www.transartists.org/air/atelierhaus-salzamt-linz), Linz, AT
+  - [BANFF](https://www.banffcentre.ca/programs/banff-artist-residence-fall-2018/20180917), BANFF, CA
+  - [Impakt](http://www.transartists.org/air/impakt-works), Utrecht, NL 
+  - [Van Eyck](http://www.janvaneyck.nl/en/programma/aanmelden/), Maastricht, NL
+  - [V2](http://www.transartists.org/air/v2_.2002.html), Rotterdam, NL 
