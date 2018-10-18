@@ -5,7 +5,9 @@ This collection of festivals, residence spaces and events was started by Félici
 ## Suisse
   - [Belluard](http://belluard.ch/), Fribourg
   - [HeK - net based](https://netbased.ch/), Basel
+  - [Fantoche](https://fantoche.ch/), Baden
   - [Gamez Festival](http://www.gamezfestival.ch/), Zurich
+  - [GIFF](https://www.giff.ch/), Geneva
   - [Grafik](http://www.grafik-schweiz.ch/), Zurich
   - [Ludicious](http://www.ludicious.ch/), Zurich
   - [Mapping](http://www.mappingfestival.com/), Geneva
