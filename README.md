@@ -1,6 +1,6 @@
-# Festivals in Switzerland, Europe and the rest of the planet 🎉
+# Festivals and residence programmes in Switzerland, Europe and the rest of the planet 🎉
 
-This collection of festivals and events was started by Félicien Goguey, Laura Couto Rosado and Gordan Savičić for the Master Media Design course in Geneva. Please make a pull request if you want to update the list.  
+This collection of festivals, residence spaces and events was started by Félicien Goguey, Laura Couto Rosado and Gordan Savičić for the Master Media Design course in Geneva in 2016. Please make a pull request if you want to update the list.  
 
 ## Suisse
   - [Belluard](http://belluard.ch/), Fribourg
