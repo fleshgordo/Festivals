@@ -39,18 +39,17 @@ This collection of festivals, residence spaces and events was started by Félici
   - [Vector Festival](http://vectorfestival.org/), Toronto, CA 
 
 # Residencies and fellowships
-
-  - [Eyebeam](https://www.eyebeam.org/residency/), New York, US 
-  - [CIID](http://ciid.dk/research/fellowships/), Copenhagen, DK
+  - [BANFF](https://www.banffcentre.ca/programs/banff-artist-residence-fall-2018/20180917), BANFF, CA
   - [CERN](https://arts.cern/programmes), Geneva, CH 
+  - [CIID](http://ciid.dk/research/fellowships/), Copenhagen, DK
   - [Dart17](https://www.swissnexsanfrancisco.org/what-we-do/past-initiatives/dart17/), San Francisco, US
   - [Embassy of foreign artists](http://www.eofa.ch/), Geneva, CH 
   - [Edith-Russ-Haus](http://www.edith-russ-haus.de/en/grants/grants/current.html), Oldenburg, DE  
+  - [Eyebeam](https://www.eyebeam.org/residency/), New York, US 
   - [Hangar](https://hangar.org/en/category/residents/convocatories-residents/), Barcelona, ES 
+  - [Impakt](http://www.transartists.org/air/impakt-works), Utrecht, NL 
   - [La Becque](http://labecque.ch/), La Tour-de-Peilz, CH
   - [Pervasive Studio](https://www.watershed.co.uk/studio/), London, UK
   - [Salzamt](http://www.transartists.org/air/atelierhaus-salzamt-linz), Linz, AT
-  - [BANFF](https://www.banffcentre.ca/programs/banff-artist-residence-fall-2018/20180917), BANFF, CA
-  - [Impakt](http://www.transartists.org/air/impakt-works), Utrecht, NL 
-  - [Van Eyck](http://www.janvaneyck.nl/en/programma/aanmelden/), Maastricht, NL
   - [V2](http://www.transartists.org/air/v2_.2002.html), Rotterdam, NL 
+  - [Jan van Eyck](http://www.janvaneyck.nl/en/programma/aanmelden/), Maastricht, NL
