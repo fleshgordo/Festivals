@@ -8,7 +8,7 @@ This collection of festivals and events was started by Félicien Goguey, Laura C
   - [Gamez Festival](http://www.gamezfestival.ch/), Zurich
   - [Grafik](http://www.grafik-schweiz.ch/), Zurich
   - [Ludicious](http://www.ludicious.ch/), Zurich
-  - [Mapping](http://2017.mappingfestival.com/), Geneva
+  - [Mapping](http://www.mappingfestival.com/), Geneva
   - [NIFFF](http://www.nifff.ch/site/fr/accueil), Neuchatel
   - [Numerik Games](https://www.numerik-games.ch/), Yverdon-les-bains
 
