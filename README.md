@@ -11,6 +11,7 @@ This collection of festivals, residence spaces and events was started by Félici
   - [Mapping](http://www.mappingfestival.com/), Geneva
   - [NIFFF](http://www.nifff.ch/site/fr/accueil), Neuchatel
   - [Numerik Games](https://www.numerik-games.ch/), Yverdon-les-bains
+  - [World VR Forum](http://worldvrforum.com/), Crans-Montana
 
 ## Europe
   - [AND Festival](http://www.andfestival.org.uk/), UK
@@ -42,6 +43,7 @@ This collection of festivals, residence spaces and events was started by Félici
   - [Eyebeam](https://www.eyebeam.org/residency/), New York, US 
   - [CIID](http://ciid.dk/research/fellowships/), Copenhagen, DK
   - [CERN](https://arts.cern/programmes), Geneva, CH 
+  - [Dart17](https://www.swissnexsanfrancisco.org/what-we-do/past-initiatives/dart17/), San Francisco, US
   - [Embassy of foreign artists](http://www.eofa.ch/), Geneva, CH 
   - [Edith-Russ-Haus](http://www.edith-russ-haus.de/en/grants/grants/current.html), Oldenburg, DE  
   - [Hangar](https://hangar.org/en/category/residents/convocatories-residents/), Barcelona, ES 
