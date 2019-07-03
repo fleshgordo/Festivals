@@ -55,3 +55,11 @@ This collection of festivals, residence spaces and events was started by Félici
   - [Salzamt](http://www.transartists.org/air/atelierhaus-salzamt-linz), Linz, AT
   - [V2](http://www.transartists.org/air/v2_.2002.html), Rotterdam, NL 
   - [Jan van Eyck](http://www.janvaneyck.nl/en/programma/aanmelden/), Maastricht, NL
+
+# Awards and Prizes
+
+  - [Berthoud, Lissignol-Chevalier et Galland (BLCG)](http://www.ville-geneve.ch/demarches-administratives/postuler-bourses-berthoud-lissignol-chevalier-galland-blcg-jeune-creation-arts-plastiques-arts-appliques/)
+  - [Bourses du Fonds cantonal d'art contemporain (FCAC)](https://www.ge.ch/aide-projet-artistique-culturel/bourses-prix)
+  - [Design Preis Schweiz](http://www.designpreis.ch/)
+  - [SWISS DESIGN COMPETITION](https://swissdesignawardsblog.ch)
+ 
