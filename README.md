@@ -61,5 +61,9 @@ This collection of festivals, residence spaces and events was started by Félici
   - [Berthoud, Lissignol-Chevalier et Galland (BLCG)](http://www.ville-geneve.ch/demarches-administratives/postuler-bourses-berthoud-lissignol-chevalier-galland-blcg-jeune-creation-arts-plastiques-arts-appliques/)
   - [Bourses du Fonds cantonal d'art contemporain (FCAC)](https://www.ge.ch/aide-projet-artistique-culturel/bourses-prix)
   - [Design Preis Schweiz](http://www.designpreis.ch/)
+  - [GDC Students Award](http://www.igf.com/submit-your-game)
+  - [GSGS Serious Gaming Award](https://gsgs.ch/)
+  - [IxDA Award](http://awards.ixda.org)
   - [SWISS DESIGN COMPETITION](https://swissdesignawardsblog.ch)
+
  
